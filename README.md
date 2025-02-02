@@ -19,11 +19,5 @@ The dataset consists of various features related to the house such as:
 
 For a complete list of features, refer to the Kaggle dataset.
 
-## Installation
 
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/yourusername/house-price-prediction.git
-   cd house-price-prediction
 
